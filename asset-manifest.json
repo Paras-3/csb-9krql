@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://paras-3.github.io/csb-9krql/static/css/main.26e873bb.chunk.css",
+    "main.js": "https://paras-3.github.io/csb-9krql/static/js/main.5db70d84.chunk.js",
+    "main.js.map": "https://paras-3.github.io/csb-9krql/static/js/main.5db70d84.chunk.js.map",
+    "runtime-main.js": "https://paras-3.github.io/csb-9krql/static/js/runtime-main.371e5103.js",
+    "runtime-main.js.map": "https://paras-3.github.io/csb-9krql/static/js/runtime-main.371e5103.js.map",
+    "static/js/2.cd32482f.chunk.js": "https://paras-3.github.io/csb-9krql/static/js/2.cd32482f.chunk.js",
+    "static/js/2.cd32482f.chunk.js.map": "https://paras-3.github.io/csb-9krql/static/js/2.cd32482f.chunk.js.map",
+    "index.html": "https://paras-3.github.io/csb-9krql/index.html",
+    "static/css/main.26e873bb.chunk.css.map": "https://paras-3.github.io/csb-9krql/static/css/main.26e873bb.chunk.css.map",
+    "static/js/2.cd32482f.chunk.js.LICENSE.txt": "https://paras-3.github.io/csb-9krql/static/js/2.cd32482f.chunk.js.LICENSE.txt",
+    "static/media/image-1.257ea0d6.png": "https://paras-3.github.io/csb-9krql/static/media/image-1.257ea0d6.png",
+    "static/media/image-2.bd1c98bf.png": "https://paras-3.github.io/csb-9krql/static/media/image-2.bd1c98bf.png",
+    "static/media/image-3.3e5f1250.png": "https://paras-3.github.io/csb-9krql/static/media/image-3.3e5f1250.png",
+    "static/media/image-4.794bd7c7.png": "https://paras-3.github.io/csb-9krql/static/media/image-4.794bd7c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.371e5103.js",
+    "static/js/2.cd32482f.chunk.js",
+    "static/css/main.26e873bb.chunk.css",
+    "static/js/main.5db70d84.chunk.js"
+  ]
+}
